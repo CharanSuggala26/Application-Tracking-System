@@ -14,6 +14,18 @@ In this project, we build a complete end-to-end **Applicant Tracking System (ATS
 
 ---
 
+## Demo
+
+![Demo](assets/image1.png)
+--
+![Demo](assets/image2.png)
+--
+![Demo](assets/image3.png)
+--
+![Demo](assets/image4.png)
+--
+
+
 ## 💡 Technologies Used
 
 - 📄 Google Gemini Pro Vision API  
